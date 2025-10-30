@@ -1,9 +1,9 @@
-for i in range(1,101) :
-    if i % 2 == 0 :
-        print(i, "2의 배수입니다.")
-    if i % 5 == 0 :
-        print(i, "5의 배수입니다.")
+for b in range(1,101) :
+    if b % 2 == 0 :
+        print(b, "2의 배수입니다.")
+    if b % 5 == 0 :
+        print(b, "5의 배수입니다.")
     else :
-        print(i)
+        print(b)
 
 print("충돌 해결 완료")
