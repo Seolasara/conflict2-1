@@ -5,3 +5,5 @@ for i in range(1,101) :
         print(i, "5의 배수입니다.")
     else :
         print(i)
+
+print("충돌 해결 완료")
